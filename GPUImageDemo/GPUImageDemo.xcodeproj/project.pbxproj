@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		387507201BDD269300655660 /* WID-small.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3875071F1BDD269300655660 /* WID-small.jpg */; };
 		38C8C3791BDCC60400BC55B9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 38C8C3781BDCC60400BC55B9 /* main.m */; };
 		38C8C37C1BDCC60400BC55B9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 38C8C37B1BDCC60400BC55B9 /* AppDelegate.m */; };
 		38C8C3841BDCC60400BC55B9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38C8C3831BDCC60400BC55B9 /* Images.xcassets */; };
@@ -53,6 +54,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3875071F1BDD269300655660 /* WID-small.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WID-small.jpg"; sourceTree = "<group>"; };
 		38C8C3731BDCC60400BC55B9 /* GPUImageDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GPUImageDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		38C8C3771BDCC60400BC55B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		38C8C3781BDCC60400BC55B9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -138,6 +140,7 @@
 		38C8C3761BDCC60400BC55B9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3875071F1BDD269300655660 /* WID-small.jpg */,
 				38C8C3771BDCC60400BC55B9 /* Info.plist */,
 				38C8C3781BDCC60400BC55B9 /* main.m */,
 			);
@@ -274,6 +277,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				387507201BDD269300655660 /* WID-small.jpg in Resources */,
 				38C8C3871BDCC60400BC55B9 /* LaunchScreen.xib in Resources */,
 				38C8C3841BDCC60400BC55B9 /* Images.xcassets in Resources */,
 			);
